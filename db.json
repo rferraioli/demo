@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "avatarUrl": "https://i.pravatar.cc/150?u=90953",
+      "color": "#3CCD4C",
+      "email": "#jkfnrr@hoovf.tc",
+      "isPublic": true,
+      "name": "RhuZicvVd7",
+      "statusMessage": "watching Netflix"
+    }
+  ]
 }
